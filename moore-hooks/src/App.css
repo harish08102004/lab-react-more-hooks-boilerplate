@@ -1,0 +1,10 @@
+body{
+  text-align: center;
+}
+.note{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  background-color: rgb(246, 211, 161);
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
